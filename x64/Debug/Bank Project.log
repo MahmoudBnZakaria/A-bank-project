@@ -1,0 +1,123 @@
+﻿  Source1.cpp
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\Global.h(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\city\source\repos\Bank Project\Bank Project\Global.h(3,9): error C2146: syntax error: missing ';' before identifier 'CurrentUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\Global.h(3,23): error C2825: 'clsUser': must be a class or namespace when followed by '::'
+C:\Users\city\source\repos\Bank Project\Bank Project\Global.h(3,32): error C2510: 'clsUser': left of '::' must be a class/struct/union
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUser.h(194,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsScreen.h(21,41): error C2065: 'CurrentUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsScreen.h(30,14): error C2065: 'CurrentUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(207,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(163,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(164,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(165,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(435,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTransferScreen.h(44,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTransferScreen.h(49,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTransferScreen.h(77,66): error C2065: 'CurrentUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTransferScreen.h(77,30): error C2660: 'clsBankClient::Transfer': function does not take 2 arguments
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(12,38): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(15,70): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(16,45): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(17,45): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(18,45): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(19,45): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(20,45): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(28,9): error C2923: 'std::vector': 'clsUser' is not a valid template type argument for parameter '_Ty'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(28,9): error C2976: 'std::vector': too few template arguments
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(28,33): error C2514: 'std::vector': class template cannot be constructed
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(31,56): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(47,20): error C2662: 'allocator_traits<allocator_traits<_Alloc>::rebind_alloc<_Ty>>::size_type std::vector<_Ty,_Alloc>::size(void) noexcept const': cannot convert 'this' pointer from 'std::vector' to 'const std::vector<_Ty,_Alloc> &'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(51,26): error C2146: syntax error: missing ';' before identifier 'User'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ';' before ':'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(51,31): error C2143: syntax error: missing ')' before ':'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(51,31): error C2059: syntax error: ':'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(51,39): error C2059: syntax error: ')'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(52,13): error C2143: syntax error: missing ';' before '{'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsListUsersScreen.h(54,38): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(13,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(34,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(16,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(19,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(22,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(25,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(28,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(31,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(38,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(145,17): error C2146: syntax error: missing ';' before identifier 'NewUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(145,17): error C2065: 'NewUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(147,23): error C2065: 'NewUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(151,22): error C2065: 'NewUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewUserScreen.h(158,24): error C2065: 'NewUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(12,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(16,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(17,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(18,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(19,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(20,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(21,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(22,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(23,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(45,17): error C2146: syntax error: missing ';' before identifier 'User1'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(45,17): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(46,20): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(56,17): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsDeleteUserScreen.h(59,28): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(14,31): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(35,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(17,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(20,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(23,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(26,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(29,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(32,9): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(39,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(40,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(41,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(42,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(43,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(44,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(45,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(46,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(147,17): error C2146: syntax error: missing ';' before identifier 'User1'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(147,17): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(149,20): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(163,27): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(167,26): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateUserScreen.h(175,28): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(12,28): error C2061: syntax error: identifier 'clsUser'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(16,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(17,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(18,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(19,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(20,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(21,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(22,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(23,39): error C2065: 'User': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(44,17): error C2146: syntax error: missing ';' before identifier 'User1'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(44,17): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(46,14): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsFindUserScreen.h(55,20): error C2065: 'User1': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsMainScreen.h(105,9): error C2065: 'CurrentUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsLoginScreen.h(45,13): error C2065: 'CurrentUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsLoginScreen.h(47,26): error C2065: 'CurrentUser': undeclared identifier
+C:\Users\city\source\repos\Bank Project\Bank Project\clsLoginScreen.h(47,26): error C1003: error count exceeds 100; stopping compilation

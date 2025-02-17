@@ -1,0 +1,32 @@
+﻿  Source1.cpp
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsInputValidate.h(113,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsInputValidate.h(117,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(207,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(29,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(163,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(164,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(165,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(422,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsBankClient.h(435,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTransferScreen.h(44,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsTransferScreen.h(49,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\city\source\repos\Bank Project\Bank Project\clsUpdateCurrencyScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  53 of 863 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    71 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Bank Project.vcxproj -> C:\Users\city\source\repos\Bank Project\x64\Release\Bank Project.exe
